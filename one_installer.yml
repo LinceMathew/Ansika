@@ -64,7 +64,6 @@
         - ripgrep
         - apt-transport-https
         - code
-        - google-chrome-stable
       become: yes
    
     - name: Install node and set version
